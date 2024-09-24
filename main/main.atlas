@@ -1,0 +1,4 @@
+images {
+  image: "/assets/Player Blue/playerBlue_stand.png"
+}
+extrude_borders: 2

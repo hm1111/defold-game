@@ -7,7 +7,6 @@ shared_state = 1
 [display]
 width = 960
 height = 640
-display_profiles = /default.display_profilesc
 
 [android]
 input_method = HiddenInputField
